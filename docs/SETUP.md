@@ -14,6 +14,9 @@ Look up instructions for your specific OS/distribution.
 ## Initialize DB
 ```
 $ psql --user postgres
+
+for windows 10 :
+$ psql --username postgres
 ```
 
 NOTE: If you get errors when running the above command:
